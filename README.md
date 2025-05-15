@@ -18,10 +18,6 @@ The transition from R Shiny to Laravel + React.js was driven by the following re
 
 (To be added: installation instructions, prerequisites, and setup steps for running the Laravel + React.js version of the LabourMobilityRegistry.)
 
-## Contributing
-
-Contributions are welcome! Please follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
