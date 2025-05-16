@@ -14,9 +14,9 @@ The transition from R Shiny to Laravel + React.js was driven by the following re
 6. **Robust API Integration**: Laravel's built-in support for RESTful APIs pairs seamlessly with React.js, enabling better integration with external services and future-proofing the application.
 7. **Cost-Effective Deployment**: Laravel's compatibility with a wide range of hosting platforms and React.js's static build capabilities reduce deployment costs compared to R Shiny's specialized server requirements.
 
-## Getting Started
-
-(To be added: installation instructions, prerequisites, and setup steps for running the Laravel + React.js version of the LabourMobilityRegistry.)
+## Screenshots
+![Screenshot 2025-05-16 140951](https://github.com/user-attachments/assets/326e769b-5ead-4b70-b857-fab2e021be42)
+![image](https://github.com/user-attachments/assets/add1309d-09bf-427f-acf1-fd90c415d7a6)
 
 ## License
 
